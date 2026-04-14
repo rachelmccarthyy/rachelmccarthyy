@@ -1,6 +1,6 @@
 ## Hey, I'm Rachel
 
-Product Manager based in Brooklyn. I build consumer products, and I actually build them — not just spec them.
+Product Manager based in Brooklyn,building consumer products.
 
 My background is in economics (UW, '23) and two-sided marketplaces. At Gymki, I shipped a consumer fitness app and partner tools from zero to launch across 70+ partners. Now I build my own products with Claude Code, Next.js, and Supabase.
 
