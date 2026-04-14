@@ -15,6 +15,6 @@ My background is in economics (UW, '23) and two-sided marketplaces. At Gymki, I 
 ### How I think about product
 
 I write about product, design, and economics on my site. A few favorites:
-- [The End of the Front End](https://rachelmccarthy.io/thinking) — AI agents replacing UI as the product surface
+- [The End of the Front End](https://www.rachelmccarthy.io/#about) — AI agents replacing UI as the product surface
 - [Jobs to Be Done, Actually](https://rachelmccarthy.io/thinking) — Practical JTBD, not just the framework name-drop
 - [Lemons, Cars, and the NYC Marriage Market](https://rachelmccarthy.io/thinking) — Akerlof's information asymmetry applied to dating
